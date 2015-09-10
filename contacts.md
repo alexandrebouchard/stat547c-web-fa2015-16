@@ -17,14 +17,12 @@ Course Information
 </address>
 
 <address>
-**TA:** TBA <br/>
-**Email:** TBA
+**TA:** Bobak Shahriari <br/>
+**Email:** bshahr@cs.ubc.ca
 </address>
 
 **Piazza:** For questions and discussions, enroll [here](http://piazza.com/ubc.ca/winterterm12015/stat547c)
 
 **Instructor office hour:**  TBA
 
-**TA office hour:** TBA
-
-Both office hours will be held in ESB 3125 (TO BE CONFIRMED)
+**TA office hour:** Wednesday 11-12 (ESB 3174)
