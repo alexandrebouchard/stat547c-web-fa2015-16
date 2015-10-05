@@ -28,4 +28,4 @@ Contacting instructors and TAs
 
 **Instructor office hour:**  Friday 12-1 (ESB 3125)
 
-**TA office hour:** Wednesday 11-12 (ESB 3174)
+**TA office hour:** Friday 2-3 pm (ESB 3174)
