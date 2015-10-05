@@ -25,4 +25,4 @@ Course Information
 
 **Instructor office hour:**  TBA
 
-**TA office hour:** Wednesday 11-12 (ESB 3174)
+**TA office hour:** Friday 2-3 pm (ESB 3174)
