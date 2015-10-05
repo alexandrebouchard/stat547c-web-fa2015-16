@@ -13,7 +13,7 @@ Syllabus: Topics in Probability
 
 **Important notes:**
 
-- Discussion forum: To encourage richer open exchanges, Seong and I will *only* use this platform to answer course-related questions (unless for personal matters). See ``Contact`` link in the top menu.
+- Discussion forum: To encourage richer open exchanges, Bobak and I will *only* use this platform to answer course-related questions (unless for personal matters). See ``Contact`` link in the top menu.
 
 **Evaluation:** See slides from the first lecture.
 
